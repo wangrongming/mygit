@@ -1,1 +1,3 @@
-print('hello')
+dosomething
+priint('hello'
+just i like)
