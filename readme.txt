@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-master for readme
-=======
-readme 
->>>>>>> dev
+test for git push
